@@ -126,6 +126,11 @@ p {
   max-height: 200px;
 }
 
+.blurb-content {
+  display: flex;
+  flex-direction: column;
+}
+
 .content h2 {
   margin-bottom: 20px;
   font-size: 36px;
